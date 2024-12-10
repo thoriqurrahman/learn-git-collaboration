@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Colors */
+:root {
+  --orange-peel: #ff9f1c;
+  --hunyadi-yellow: #f2e533;
+  --mint-green: #a3f7b5;
+  --light-sea-green: #20c997;
+}
+
+/* Tailwind Extensions */
+body {
+  font-family: 'Inter', sans-serif;
+}
